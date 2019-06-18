@@ -1,7 +1,8 @@
 
 # 精读
 
-  *How are you doing?*
+  *How are you doing?*  
+  `How do you do?`
 
 ### 日常
 
